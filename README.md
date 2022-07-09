@@ -296,15 +296,15 @@ C)-I3+I7+I8 = 0
 
 ![image](https://user-images.githubusercontent.com/105823435/178118917-6c9eb8f9-a27c-4a04-9e54-74ac24db72cf.png)
 
-A) (24-VA)-(VA-VB)+(VC-VA)-VA = 0
+A)(24-VA)-(VA-VB)+(VC-VA)-VA = 0
 
 -4VA+VB+VC = -24
 
-B) (VA-VB)+(24-VB)+(VB-18) = 0
+B)(VA-VB)+(24-VB)+(VB-18) = 0
 
 VA-3VB = -42
 
-C) –(VC-VA)+(10-VC)+(18-VC) = 0
+C)–(VC-VA)+(10-VC)+(18-VC) = 0
 
 VA-3VC = -28
 
@@ -365,6 +365,7 @@ H = Fm/l = 150/0.2 = 750 At/m
 ![image](https://user-images.githubusercontent.com/105823435/178119040-b28271b2-0fed-432e-ae7d-22456b1147aa.png)
 
 a)H 
+
 Fm = N*I = 500*0.25 = 125At
 
 H = Fm/l = 125/0.3 = 416.67At/m
