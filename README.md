@@ -312,12 +312,113 @@ VA-3VC = -28
 
 ![image](https://user-images.githubusercontent.com/105823435/178118923-1a14896f-1c5c-4afe-b69f-3f2e56e8bcbb.png)
 
+SECCIÓN 10–1 El campo magnético 
+
+2.En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo? 
+
+B = 1500*10^-6/0.5 = 3mT
+
+4.En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas. 
+
+1T = 10^4G
+
+0.6T = 0.6*10^4 G
+
+0.6G = 0.6/10^4 T = 60µT
+
+6.¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte? 
+
+![image](https://user-images.githubusercontent.com/105823435/178118969-d573b9b5-3cf5-4130-95b7-6dbc3920368b.png)
+
+Se invierte la dirección de la corriente también invertirá la dirección del flujo magnético debido a la regla de la mano izquierda.
+
+8.Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es de 150 * 10-7 Wb/At*m.
+
+R = l/µA
+
+R = 0.28/0.08*150*10^-7
+
+R = 2333.33*10^3 At/Wb
+
+SECCIÓN 10–3 Dispositivos electromagnéticos 
+
+10.De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán? 
+
+El Dispositivo electromagnético usado para aplicar una fuerza mecánica lineal en respuesta al paso de una corriente a través del embobinado.
+
+12.Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra. 
+
+![image](https://user-images.githubusercontent.com/105823435/178118984-401619b2-bd39-4bf2-a1ee-930e46af9a0b.png)
+
+El símbolo se conecta para el botón del relé.
+
+SECCIÓN 10–4 Histéresis magnética 
+
+14.¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m? 
+
+Fm = N*I = 50*3 = 150At
+
+H = Fm/l = 150/0.2 = 750 At/m
+
+16.En la figura 10-44, hay 500 vueltas. Determine: 
+
+![image](https://user-images.githubusercontent.com/105823435/178119040-b28271b2-0fed-432e-ae7d-22456b1147aa.png)
+
+a)H 
+Fm = N*I = 500*0.25 = 125At
+
+H = Fm/l = 125/0.3 = 416.67At/m
+
+b)Φ
+
+R = l/µA
+
+µ = µr*µ0 
+
+µ = 250*4π*10^-7 At/m
+
+A = 0.02*0.02 = 4*10^-4
+
+c)B 
+
+R = l/µA
+
+R = 0.3/250*4π*10^-7 At/m 
+
+R = 2.387*10^6 At/Wb
+
+SECCIÓN 10–5 Inducción electromagnética 
+
+18.De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica? 
+
+Se induce voltaje cero.
+
+20.Un campo magnético cambia a razón de 3500x10-3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético? 
+
+El voltaje inducido se incrementa.
+
+22.En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando? 
+
+![image](https://user-images.githubusercontent.com/105823435/178119056-6e4b511b-ed9c-4d2b-97fd-0c27f8d28ec9.png)
+
+Se ejerce una fuerza en el conductor cuando existe corriente
+
+24.Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+
+Es 120 veces cada segundo.
+
+4.-Video
 
 
 
+5.-Conclusiones 
 
+Se analizó y aplico los métodos expuestos en los capítulos nueve y diez.
 
+Se analizó tres métodos de resolver ecuaciones simultáneas.
 
+Se identificó el principio de inducción electromagnética.
 
-
+6.-Bibliografía
+Sachez, D. (6 de Abril de 2019). Significados. Obtenido de Significados: https://www.significados.com/magnetismo/#:~:text=Magnetismo%20y%20electromagnetismo,ejemplo%2C%20en%20los%20campos%20magn%C3%A9ticos.
 
